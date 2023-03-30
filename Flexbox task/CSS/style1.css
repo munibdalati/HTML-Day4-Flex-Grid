@@ -1,0 +1,21 @@
+.container{
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+    border: solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    border: 7px solid black;
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+
+
+}

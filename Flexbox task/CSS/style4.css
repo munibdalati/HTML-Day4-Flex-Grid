@@ -1,0 +1,89 @@
+
+h3{
+    text-align: center;
+    color: lightgreen;
+}
+
+.container {
+    display: flex;
+    flex-direction : column;
+    align-items: center;
+}
+.item1{
+    display: flex;
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 100px;
+    margin-bottom: 2px;
+}
+
+.middle {
+    display: flex;
+    width: 600px;
+    height: 100px;
+    gap: 2px;
+}
+
+.item2{
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.item3{
+    display: flex;
+    background-color: yellow;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.item4{
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.item5{
+    display: flex;
+    background-color: lightgrey;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+.item6{
+    display: flex;
+    background-color: violet;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+.item7{
+    display: flex;
+    background-color: darkblue;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+
+
+.item8{
+    display: flex;
+    background-color: violet;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 100px;
+    margin-top: 2px;
+}

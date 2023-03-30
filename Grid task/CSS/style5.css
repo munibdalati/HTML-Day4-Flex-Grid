@@ -1,0 +1,29 @@
+.main{
+    background: #cccccc;
+    padding: 10px 20px;
+}
+.container{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 80px repeat(10, 40px);
+    border-radius: 5%;
+    padding: 10px 0px 20px 40px;
+}
+
+h1{
+    grid-column: span 2;
+}
+
+.address, .addressb{
+    grid-column: span 2;
+}
+
+button{
+    background-color:#ff0000 ;
+    color: white;
+    border-radius: 5px;
+    grid-column-start: 2;
+    margin-left: 90px;
+    padding: 5px;
+}
